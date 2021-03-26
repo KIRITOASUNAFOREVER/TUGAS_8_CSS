@@ -1,0 +1,33 @@
+body{
+  background-image: url("../gambar/pahawang-beach.jpg");
+  background-size: cover;
+}
+
+.satu {
+ width: 630px;
+ height: 320px;
+ border: 2px solid black;
+ margin: top left;
+ background-image: url("../gambar/avocado.jpg");
+ background-color: white;
+ background-repeat: repeat-y;
+ overflow: scroll;
+}
+
+p{
+  text-align: right;
+  color: blue;
+  font-weight: bold;
+}
+
+.dua{
+  text-align: left;
+  color: green;
+  font-weight: bold;
+}
+
+.tiga{
+  text-align: center;
+  color: red;
+  font-weight: bold;
+}
